@@ -14,6 +14,9 @@ Having graduated from Ecole Polytechnique (France) I’m currently pursuing my g
 
 ## Featured Project
 
+[**ring-attention**](https://github.com/h1ppox99/ring-attention)
+*A from-scratch C++/CUDA implementation, tuned for Stanford's Turing (sm_75) GPU cluster.*
+
 [**powerflow-gnn**](https://github.com/h1ppox99/powerflow-gnn)  
 *Graph Neural Networks for power systems*  
 > Using GNNs to model and predict power flow in electrical grids.
